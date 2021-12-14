@@ -3,15 +3,14 @@
 Learner’s who hold two contradictory conceptualisations experience an intrinsic motivation to learn in order to resolve their physiological stress.
 
 
-| Learners:     |   
-| ------------- | 
-|work with about 4 pieces of novel information to reduce intrinsic cognitive load| 
-|use worked examples of scaffolded demonstrations of how to solve problems| 
-|reduce scaffolding as learners progress from novice to expert| 
-|reduce extrinsic load distractions to release more working memory resources|
+| Learners:     |   |  
+| ------------- | ------------- |
+|express existing and alternative conceptualization about a phenomenon|&#9744;| 
+|examine new scientific evidence about a phenomenon|&#9744;| 
+|revise their own conceptualization to explain the phenomenon|&#9744;| 
+|resolve the cognitive dissonance with the accepted scientific conceptualization |&#9744;|
 
-<img src="images/cognitive-dissonance.png" height="240">
-
+<img src="https://github.com/warwick-bailey-work/lxd-sys/raw/main/md/images/cognitive-dissonance.png" height="240">
 
 <div style="page-break-after: always;"></div>
 
