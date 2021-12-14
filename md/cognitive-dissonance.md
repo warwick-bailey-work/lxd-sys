@@ -10,6 +10,8 @@ Learner’s who hold two contradictory conceptualisations experience an intrinsi
 |revise their own conceptualization to explain the phenomenon|&#9744;| 
 |resolve the cognitive dissonance with the accepted scientific conceptualization |&#9744;|
 
+**How to use**
+
 <img src="https://github.com/warwick-bailey-work/lxd-sys/raw/main/md/images/cognitive-dissonance.png" height="240">
 
 <div style="page-break-after: always;"></div>

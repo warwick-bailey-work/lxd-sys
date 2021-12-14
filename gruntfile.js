@@ -26,7 +26,7 @@ module.exports = function (grunt) {
 		run: {
 			options: {
 			},
-			node: {
+			md2pdf: {
 				cmd: 'node',
 				args: ['index.js']
 			}
@@ -38,5 +38,5 @@ module.exports = function (grunt) {
 	grunt.loadNpmTasks('grunt-contrib-concat');
 	grunt.loadNpmTasks('grunt-run');
 
-	grunt.registerTask('default', ['clean','copy:images', 'concat:md', 'run:node']);
+	grunt.registerTask('default', ['clean','copy:images', 'concat:md', 'run:md2pdf']);
 }
