@@ -1,0 +1,30 @@
+{
+  "name": "lxd-sys",
+  "version": "1.0.0",
+  "description": "LXD System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warwick-bailey-work/lxd-sys.git"
+  },
+  "keywords": [
+    "LXD"
+  ],
+  "author": "Warwick Bailey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warwick-bailey-work/lxd-sys/issues"
+  },
+  "homepage": "https://github.com/warwick-bailey-work/lxd-sys#readme",
+  "devDependencies": {
+    "grunt": "^1.4.1",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-concat": "^2.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-run": "^0.8.1",
+    "md-to-pdf": "^5.0.1"
+  }
+}
