@@ -1,6 +1,9 @@
 **Cognitive Load**
 
-Learners' working memory is (a) limited to a capacity of about 4 pieces of novel information and (b) volatile with a duration for novel information of about 20 seconds. Existing schemas in long-term memory and used in working memory only occupy a tiny proportion of working memory resources. Cognitive load refers to the amount of working memory resources used. 
+Cognitive load theory describes how novel information is only stored in long term memory after first being attended to, and processed, by working memory. Working memory is severely limited. Working memory is limited to a capacity of about 4 elements of novel information and a duration of about 20 seconds. 
+
+Intrinsic cognitive load is the complexity of content. Extraneous cognitive load is any distraction from the environment. Cognitive overload occurs when the sum of the intrinsic and extrinsic load exceeds working memory capacity. 
+
 
 | Learners:     |   |  
 | ------------- | ------------- |
@@ -9,6 +12,18 @@ Learners' working memory is (a) limited to a capacity of about 4 pieces of novel
 |reduce scaffolding as learners progress from novice to expert|&#9744;| 
 |reduce extrinsic load distractions to release more working memory resources|&#9744;|
 
+**Example**  
+
+When learners are given feedback online, the intrinsic cognitive load is related to the number of novel pieces of information. The extrinsic load is related to distracting elements in the user interface. 
+
+Three bulleted feedback items in a minimalist user interface should be within the capacity of a learner’s very limited working memory.
+
+<img src="https://github.com/warwick-bailey-work/lxd-sys/raw/main/md/images/700-w-480-h/cognitive-load-700-480.png" width="700" height="480">  
+
+**Further reading**  
+
+* <a href="https://www.twinkl.co.uk/blog/cognitive-load-theory-in-the-classroom-explained" target="_top">Cognitive load theory in the classroom</a>
+* <a href="https://www.google.com/search?q=cognive+load" target="_top">Search “cognitive load</a>
 
 <div style="page-break-after: always;"></div>
 
