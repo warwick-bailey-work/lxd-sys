@@ -4,8 +4,8 @@ temp/
 # Output directory
 dist/
 
-# processed images
-md/images/700-w-480-h
+# processed images deplot to GitHUb for absolute referencing
+# md/images/700-w-480-h
 
 # Logs
 logs
