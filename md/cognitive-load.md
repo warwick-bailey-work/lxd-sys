@@ -18,7 +18,7 @@ When learners are given feedback online, the intrinsic cognitive load is related
 
 Three bulleted feedback items in a minimalist user interface should be within the capacity of a learner’s very limited working memory.
 
-<img src="https://github.com/warwick-bailey-work/lxd-sys/raw/main/md/images/700-w-480-h/cognitive-load-700-480.png" width="700" height="480">  
+<img src="https://raw.githubusercontent.com/warwick-bailey-work/lxd-sys/main/md/images/700-w-480-h/cognitive-load-700-480.png" height="480">  
 
 **Further reading**  
 

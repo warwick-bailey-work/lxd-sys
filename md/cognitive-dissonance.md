@@ -19,7 +19,7 @@ Learners are presented with a phenomenon in a short video. Learners need to expl
 Learners then explain the phenomenon using their current alternative conceptions. Each learner's explanations are captured using an online poll for use later in a synchronous class.
 
 
-<img src="https://github.com/warwick-bailey-work/lxd-sys/raw/main/md/images/700-w-480-h/cognitive-dissonance-700-480.png" width="700" height="480">  
+<img src="https://raw.githubusercontent.com/warwick-bailey-work/lxd-sys/main/md/images/700-w-480-h/cognitive-dissonance-700-480.png" height="480">  
 
 **Further reading**  
 

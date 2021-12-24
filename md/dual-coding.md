@@ -20,7 +20,7 @@ When text is placed close to the relevant part of the biological image, the lear
 
 If text is placed far from the relevant part of an image in a key, the verbal and visual channels are not used together. The learner uses limited working memory resources to scan the picture to find a location for the text. Less working memory resources are available for learning.
 
-<img src="https://github.com/warwick-bailey-work/lxd-sys/raw/main/md/images/700-w-480-h/dual-coding-700-480.png" width="700" height="480">  
+<img src="https://raw.githubusercontent.com/warwick-bailey-work/lxd-sys/main/md/images/700-w-480-h/dual-coding-700-480.png" height="480">  
 
 **Further reading**  
 
